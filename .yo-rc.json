@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.java.narendra"
+    },
+    "jhipsterVersion": "4.14.4",
+    "baseName": "TestJH",
+    "packageName": "com.java.narendra",
+    "packageFolder": "com/java/narendra",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "b3e33f33f5f1571837366aeabb90c24e3150ac2f",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
